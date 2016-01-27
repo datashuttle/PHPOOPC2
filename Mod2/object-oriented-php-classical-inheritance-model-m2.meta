@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<module xmlns="http://pluralsight.com/sapphire/module/2007/11">
+
+  <author>daryl-wood</author>
+  
+  <title>Object-Oriented PHP: Method Overriding and Overloading</title>
+  
+  <description>A module of method overriding, overloading and magic!</description>
+  <clips>
+    
+    <clip href="object-oriented-php-classical-inheritance-model-m2-01.mp4" title="Module Introduction" />
+    <clip href="object-oriented-php-classical-inheritance-model-m2-02.mp4" title="Method Overrides" />
+    <clip href="object-oriented-php-classical-inheritance-model-m2-03.mp4" title="Private and Final Visibilities" />
+    <clip href="object-oriented-php-classical-inheritance-model-m2-04.mp4" title="Method Overrides in the Form Generator Application" />
+    <clip href="object-oriented-php-classical-inheritance-model-m2-05.mp4" title="Method Overloading" />
+    <clip href="object-oriented-php-classical-inheritance-model-m2-06.mp4" title="Overloading Using Magic __get() and __set() Methods" />
+    <clip href="object-oriented-php-classical-inheritance-model-m2-07.mp4" title="More Magic with __isset() and __unset() Methods" />
+    <clip href="object-oriented-php-classical-inheritance-model-m2-08.mp4" title="More Magic with __sleep() and __wakeup() Methods" />
+    <clip href="object-oriented-php-classical-inheritance-model-m2-09.mp4" title="More Magic with __invoke() and __clone() Methods" />
+  </clips>
+</module>
